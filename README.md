@@ -24,13 +24,13 @@ Open your favourite terminal of and follow the instructions below to run the com
 Clone the github repository by running the following command
 
 ```
-git clone https://github.com/tarikulwebx/Laravel-Multi-Tenant.git
+git clone https://github.com/engr-akramulhoque/laravel-multi-tanecy.git
 ```
 
 Navigate to the project directory
 
 ```
-cd Laravel-Multi-Tenant
+cd laravel-multi-tanecy
 ```
 
 ### Step 2:
